@@ -1,0 +1,1 @@
+After getting some features(such as Are, Perimeter, Circularity, AR, Round, Solidity, AR*Solid, Perimeter/Area) from ImageJ. If you have a file with samples havelables "Qualified" or not, and a file only has features, you can use this model to to add a column in latter file, which will automatically tell you the cell is qualified or not.  
